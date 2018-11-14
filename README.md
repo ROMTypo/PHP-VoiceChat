@@ -18,3 +18,6 @@ Each new voice recording saved, it will remove the old ones. The client will mak
 ## Planned Features
 * User login
 * Channels
+
+## Bugs/Problems
+* You can hear yourself
